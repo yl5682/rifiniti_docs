@@ -1,0 +1,16 @@
+.logo {
+	height: 37.5px;
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.main-container {
+	padding-top: 30px;
+}
+
+.navbar-brand {
+	padding: 10px 15px !important;
+}
