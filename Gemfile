@@ -43,3 +43,8 @@ group :development, :test do
   gem 'spring'
 end
 
+
+gem 'font-awesome-sass'
+gem 'bootstrap-sass'
+gem 'modernizr-rails'
+
